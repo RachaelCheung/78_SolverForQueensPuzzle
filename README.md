@@ -1,20 +1,11 @@
 # represent a solver for the queens problem
 
-## [your name here]'s remarks
+## Rachael's remarks
 
 ### citations / worked with / received help from
-Replace this paragraph with a solid accounting of your sources.
-People have become either lackadaisical or dishonest
-about crediting others for ideas and help. 
-If I grade this work, I will rely on this section as
-a complete listing for judging academic honesty.
-
-This list may omit sources common to everyone in the course,
-including...
-* Piazza threads
-* class-wide discussions
-* communication with Holmes via the class
-web site or GitHub repos.
+* Piazza[@476](https://piazza.com/class/jlygg7rkooq77d?cid=476 ) 
+* Piazza[@479](https://piazza.com/class/jlygg7rkooq77d?cid=479 ) 
+* class-wide discussion
 
 
 ## Holmes's remarks
